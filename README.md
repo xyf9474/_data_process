@@ -6,3 +6,5 @@ some data process files
 此文件用于批量转换一个文件夹内的所有json文件
 ### dir2csv
 此文件用于读取某个目录下所有的文件名称并写入CSV文件中
+### find_Coincident_area_in_nii
+判断两个nii格式的label有没有重合区域
